@@ -21,3 +21,16 @@ h1 {
 body{
 text-align: center;
 }
+
+.column ul {
+  font-style: italic;
+  text-align: left;
+  margin: 50px;
+  float: center;
+}
+
+.contact {
+  border: 10px;
+  background-color: green;
+  float: left;
+}
