@@ -1,0 +1,23 @@
+.column {
+  width: 300px;
+  display: inline-block;
+}
+
+.main {
+width: 1200 px;
+margin: 0 auto;
+}
+
+img {
+  width: 200px;
+  height: 120px;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+body{
+text-align: center;
+}
